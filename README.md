@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[![GitHub Pages](https://img.shields.io/badge/View%20Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://rajaryan2003.github.io/Meme-Generator-App/)
